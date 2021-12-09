@@ -1,2 +1,2 @@
 # MDP-BLOG
-BLOG:https://www.madapang.com/
+https://www.madapang.com/
